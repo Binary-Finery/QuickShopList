@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick List</string>
+    <string name="et_hint">Add Item</string>
+    <string name="edit_item_tag">Item:</string>
+</resources>
