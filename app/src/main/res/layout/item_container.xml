@@ -7,12 +7,10 @@
         android:id="@+id/text_view_itrem"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:fontFamily="monospace"
-        android:textStyle="bold"
-        android:paddingStart="16dp"
+        android:textSize="22sp"
+        android:paddingBottom="12dp"
         android:paddingEnd="16dp"
-        android:paddingBottom="10dp"
-        android:paddingTop="10dp"
-     />
+        android:paddingStart="16dp"
+        android:paddingTop="12dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 </LinearLayout>

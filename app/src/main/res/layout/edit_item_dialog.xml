@@ -12,7 +12,6 @@
             android:paddingStart="8dp"
             android:paddingEnd="8dp"
             android:layout_weight="1"
-            android:fontFamily="monospace"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:singleLine="true"
             android:imeOptions="actionDone" />
